@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="lightsaberTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2020-08-05T16:31:21" hostname="DESKTOP-OFPKFUH" time="0.018">
+  <properties/>
+  <testcase name="testUse()" classname="lightsaberTest" time="0.012"/>
+  <testcase name="testRemainingMinutes()" classname="lightsaberTest" time="0.001"/>
+  <testcase name="testColor()" classname="lightsaberTest" time="0.001"/>
+  <testcase name="testCharge()" classname="lightsaberTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
